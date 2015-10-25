@@ -1,0 +1,53 @@
+Shiny App Pitch
+===
+author: Simeone E
+date: October 25 2015
+transition: fade
+css: bootstrap.css
+font-family: 'Helvetica'
+
+<small>
+Orange Studios Random Applications
+</small>
+<small>
+Hawaii School of Digital Technologies and City Art
+</small>
+<small>
+University of the Pacific
+</small>
+
+First World Problems
+========================================================
+
+More taxis are plying the roads now more than ever
+
+- Currently 12,000 taxi cabs in Singapore
+- 65,000 taxi journeys daily
+- Potential market to help users estimate taxi fares when they google destinations
+
+Solution
+========================================================
+
+FareCalculatorApp
+
+- Ease of use by allowing users to slide to the distance they're travelling
+- Instant Estimation of fares after user has entered distance value
+- Potential to sync with online map software like Google Maps
+
+
+Market Potential
+========================================================
+
+- Create online system to authorise payment before taking a taxi
+- Partner with Google, Streetdirectory.com to create app for buses as well
+
+
+
+Success Awaits
+========================================================
+
+- Possibility of basing the potential success of the Singapore market to:
+  - Branch into neighbouring high-index cities like Manila, Kuala Lumpur
+  - Invest capital in enhancing the app e.g. providing customers the cheapest taxi routes
+  
+                          --End--
